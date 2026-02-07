@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Craig L. Zirbel GitHub repositories
 
 I'm an applied mathematician, data analyst, bioinformatician, and software developer.
