@@ -1,3 +1,4 @@
+remote_theme: clzirbel/github-pages-theme
 title: Craig L. Zirbel
 description: Research software, data analysis, and scientific tools
-theme: minima
+markdown: kramdown

@@ -1,6 +1,11 @@
 ---
 layout: default
+title: Investment Return Calculator
+toc: true
 ---
+
+* TOC
+{:toc}
 
 # Craig L. Zirbel links to resources
 
@@ -37,3 +42,6 @@ Our code is posted publicly at the GitHub sites below.
 - [fr3d-python](https://github.com/BGSU-RNA/fr3d-python) is a Python package which reads RNA and DNA 3D structure files in mmCIF and PDB formats, annotates basepairs and other pairwise interactions, and extracts hairpin and internal loops and multi-helix junctions.  The same package supports the [Web-FR3D search tool](https://rna.bgsu.edu/fr3d/) and the [R3DCID circular diagram maker](https://rna.bgsu.edu/fr3d/r3dcid).
 
 ### Group Activity Proof Course
+ - [Project website](https://github.com/clzirbel/GroupActivityProofCourse)
+ - I developed a course for mathematics majors to learn to write proofs by working in groups in class on  carefully-designed activities, while the teacher circulates from group to group to answer questions and check work.
+   It's all activity, all the time.
