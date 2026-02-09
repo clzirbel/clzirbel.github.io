@@ -6,27 +6,30 @@ toc: false
 
 # Craig L. Zirbel links to resources
 
-I'm an applied mathematician, data analyst, bioinformatician, and software developer.
+I'm an applied mathematician, data analyst, bioinformatician, teacher, and software developer.
 
-- [LinkedIn](https://www.linkedin.com/in/craig-zirbel-8726a417/)
-- [BGSU faculty website](https://bgsu.edu/zirbel)
-- [Google scholar publication list](https://scholar.google.com/citations?hl=en&user=iEheKzoAAAAJ)
-- [Things to Learn](https://sites.google.com/view/clzirbel/home), with lecture notes, programming exercises, teaching resources, chess, blackjack, monopoly, and more
-
-## Personal GitHub repositories
+## Personal GitHub repositories and websites
 
 ### PVA Photo and Video Annotator
+- Desktop application for annotating photos and videos with text descriptions.
+- Annotate, rotate, duplicate, and crop images
+- Annotate videos at different timestamps, skip segments, and adjust volume of the video
 - [Project website](https://clzirbel.github.io/pva_photo_video_annotator/)
-- Desktop application for annotating photos and videos for research workflows.
 
 ### Investment Return Calculator
+- Calculate a single average rate of return on a series of investments over time.
 - [Project website](https://clzirbel.github.io/investment_return_calculator/)
-- Calculate a single average rate of return on a series of investment over time.
 
 ### Magistra Vocabulary Practice Tool
-- [Project repository](https://github.com/clzirbel/magistra)
 - Learn words and phrases in French, German, Spanish, and whatever language you like.
   Vocabulary lists proceed from the most basic and important words to groups orgranized thematically.
+- [Project repository](https://github.com/clzirbel/magistra)
+
+### Things to Learn
+- Mathematics lecture notes and teaching resources
+- Programming exercises
+- Chess exercises for beginners, blackjack strategy, monopoly rates of return
+- [Things to Learn](https://sites.google.com/view/clzirbel/home)
 
 ## Professional projects
 
