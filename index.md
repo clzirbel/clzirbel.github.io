@@ -10,15 +10,10 @@ I'm an applied mathematician, data analyst, bioinformatician, mathematics teache
 
 ## Software Projects
 
-### Photo and Video Annotator
 - The [Photo and Video Annotator](https://clzirbel.github.io/pva_photo_video_annotator/) is a desktop application for annotating photos and videos with text descriptions.
 Annotate, rotate, duplicate, and crop images.
 Annotate videos at different timestamps, skip segments, and adjust volume of the video
-
-### Investment Return Calculator
 - The [investment return calculator](https://clzirbel.github.io/investment_return_calculator/) calculates a single average rate of return on a series of investments over time.
-
-### Magistra Vocabulary Practice Tool
 - [Magistra](https://github.com/clzirbel/magistra) helps you learn words and phrases in whatever language you like.
 Provided vocabulary lists in French, German, and Spanish proceed from the most basic and important words to groups orgranized thematically.
 
@@ -32,19 +27,14 @@ Our code is posted publicly at the GitHub sites below.
 
 ## Teaching Resources
 
-### Teaching Mathematics to First-Year Students
  - A [comprehensive guide for first-time college mathematics teachers](https://sites.google.com/view/teaching-college-mathematics/home), including graduate students who are new to the US
-
-### Group Activity Proof Course
  - The [group activity proof course](https://github.com/clzirbel/GroupActivityProofCourse)
 is a set of exercises I developed a course for mathematics majors to learn to write proofs by working in groups in class on carefully-designed activities, while the teacher circulates from group to group to answer questions and check work.
 It's all activity, all the time and it works very well.
-
-### Additional teaching resources
 - [Lecture notes](https://sites.google.com/view/clzirbel/lecture-notes) from calculus, linear algebra, probability/statistics, stochastic processes, and advanced probability courses
 - [Activities that replace lectures](https://sites.google.com/view/clzirbel/activities-that-replace-lectures) is a collection of carefully-written exercises that students can do in groups in class, which works better than you just talking at them.
 - [Dynamic programming activities](https://sites.google.com/view/clzirbel/dynamic-programming) can be used with students from junior high to PhD level to learn the basic idea of dynamic programming
+- [Start programming](https://sites.google.com/view/start-programming/) is a set of exercises for math people who are learning to program, with selected solutions in various languages
 - [Chess activities](https://sites.google.com/view/clzirbel/chess) designed for beginners who are just learning the game
 - [Blackjack talk](https://clzirbel.github.io/blackjack_talk_2001.pdf) teaches optimal stopping of Markov chains, with Blackjack being the running example
-- [Start programming](https://sites.google.com/view/start-programming/) is a set of exercises for math people who are learning to program, with selected solutions in various languages
-
+- [Monopoly graphs](https://clzirbel.github.io/monopoly.pdf) shows where you and your opponents are mostly likely to land, and how much income you can expect to get from investing different amounts of money in the different monopolies
