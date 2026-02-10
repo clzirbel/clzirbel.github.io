@@ -46,5 +46,5 @@ It's all activity, all the time and it works very well.
 - [Dynamic programming activities](https://sites.google.com/view/clzirbel/dynamic-programming) can be used with students from junior high to PhD level to learn the basic idea of dynamic programming
 - [Chess activities](https://sites.google.com/view/clzirbel/chess) designed for beginners who are just learning the game
 - [Blackjack talk](https://clzirbel.github.io/blackjack_talk_2001.pdf) teaches optimal stopping of Markov chains, with Blackjack being the running example
-- [Start programming]() is a set of exercises for math people who are learning to program, with selected solutions in various languages
+- [Start programming](https://sites.google.com/view/start-programming/) is a set of exercises for math people who are learning to program, with selected solutions in various languages
 
