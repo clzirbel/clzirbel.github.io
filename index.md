@@ -25,7 +25,7 @@ The code was developed by many students over many years; I have been the sole de
 The same package supports the [Web-FR3D search tool](https://rna.bgsu.edu/fr3d/) and the [R3DCID circular diagram maker](https://rna.bgsu.edu/fr3d/r3dcid).
 
 ## Teaching Resources
- - [Comprehensive guide for first-time college mathematics teachers](https://sites.google.com/view/teaching-college-mathematics/home), including graduate students who are new to the US
+ - [Teaching college mathematics to first-year students](https://sites.google.com/view/teaching-college-mathematics/home), is a comprehensive guide for new mathematics teachers at the university level, including graduate students who are new to the US
  - [Group activity proof course](https://github.com/clzirbel/GroupActivityProofCourse)
 is a set of exercises I developed a course for mathematics majors to learn to write proofs by working in groups in class on carefully-designed activities, while the teacher circulates from group to group to answer questions and check work.
 It's all activity, all the time and it works very well.
