@@ -11,13 +11,14 @@ I'm an applied mathematician, data analyst, bioinformatician, mathematics teache
 ## Software Projects
 - [PVA, the Photo and Video Annotator](https://clzirbel.github.io/pva_photo_video_annotator/) is a desktop application for annotating photos and videos with text descriptions.
 Annotate, rotate, duplicate, and crop images.
-Annotate videos at different timestamps, skip segments, and adjust volume of the video
+Annotate videos at different timestamps, skip segments, and adjust volume of the video.
+My first and only AI coding project.
 - [Investment return calculator](https://clzirbel.github.io/investment_return_calculator/) calculates a single average rate of return on a series of investments over time.
 - [Magistra](https://github.com/clzirbel/magistra) helps you learn words and phrases in whatever language you like.
 Provided vocabulary lists in French, German, and Spanish proceed from the most basic and important words to groups orgranized thematically.
 
 ## RNA 3D Structure Annotation and Analysis
-- [RNA 3D Hub](https://rna.bgsu.edu/rna3dhub/) is the comprehensive website for RNA 3D structure annotation and analysis, built by my colleague Neocles Leontis at BGSU and myself.
+- [RNA 3D Hub](https://rna.bgsu.edu/rna3dhub/) is a comprehensive website for RNA 3D structure annotation and analysis, built by my colleague Neocles Leontis at BGSU and myself.
 Our websites and services have been live since 2011.
 - [BGSU RNA Group GitHub site](https://github.com/BGSU-RNA) hosts many repositories that support the weekly update pipeline.
 The code was developed by many students over many years; I have been the sole developer the last few years.
